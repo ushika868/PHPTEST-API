@@ -8,6 +8,8 @@ Doctrine 2
 
 #API End points with Sample Requests
 
+Base URL - http://harvertest.dev
+
 #Create Department
 
  URL - http://harvertest.dev/api/department
